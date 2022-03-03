@@ -26,12 +26,12 @@ jobs:
       - uses: actions/checkout@v2
 
       # Implement main code commands using the runners shell
-      - name: Run Testcase Unitttest FAILED
-        run: echo comment, command run !!!
+      - name: Run Testcase Unitttest PASS/FAILED
+        run: python test/TestcaseIsprimeReturnTrue.py
         #python test/TestcaseIsprimeReturnFalse.py
 
       # Implement software testing commands using the runners shell
       - name: Run TestSuite Unitttest PASS
         run: | 
           python test/TestsuiteAllTestIsprime.py 
-          python test/TestcaseIsprimeReturnTrue.py
+          
