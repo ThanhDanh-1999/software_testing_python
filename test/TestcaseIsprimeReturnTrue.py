@@ -5,7 +5,7 @@ sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from src.com.thdanh.primenumber.core.isprime import *
 
-EXPECTED = False
+EXPECTED = True
 ACTUAL = isprime(2)
 
 # test_simple_unittest.py
