@@ -1,3 +1,5 @@
+[![CI](https://github.com/ThanhDanh-1999/software_testing_python/actions/workflows/main.yml/badge.svg)](https://github.com/ThanhDanh-1999/software_testing_python/actions/workflows/main.yml)
+
 # Welcome to Python with unitest and CI
 
 ### In this repo:
