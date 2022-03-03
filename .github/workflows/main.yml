@@ -35,4 +35,4 @@ jobs:
           python --version
           pwd
           ls
-          cd test ; python .\TestcaseIsprimeReturnTrue.py
+          ls test 
