@@ -1,4 +1,4 @@
-# Welcome to my project Prime Number with unitest and CI
+# Welcome to Python with unitest and CI
 
 ### In this repo:
 
