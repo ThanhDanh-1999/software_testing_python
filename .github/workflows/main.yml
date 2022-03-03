@@ -34,3 +34,4 @@ jobs:
         run: |
           python --version
           pwd
+          ls
