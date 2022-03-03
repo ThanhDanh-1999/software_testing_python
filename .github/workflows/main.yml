@@ -36,3 +36,4 @@ jobs:
           pwd
           ls
           ls test 
+          python test\TestsuiteAllTestIsprime.py 
