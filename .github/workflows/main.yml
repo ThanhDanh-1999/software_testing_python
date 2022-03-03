@@ -33,4 +33,4 @@ jobs:
       - name: Run a multi-line script
         run: |
           python --version
-          python .\test\TestcaseIsprimeReturnTrue.py
+          pwd
